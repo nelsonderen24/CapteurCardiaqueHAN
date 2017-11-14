@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1510657022 source:c:\users\pc-nelson\desktop\projet\module2_generateurparamh\main.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+	"menu.h"
+
+1510664004 source:c:\users\pc-nelson\desktop\projet\module2_generateurparamh\menu.c
+	"menu.h"
+	"generationCode.h"
+
+1510648451 c:\users\pc-nelson\desktop\projet\module2_generateurparamh\menu.h
+
+1510663956 source:c:\users\pc-nelson\desktop\projet\module2_generateurparamh\generationcode.c
+	"generationCode.h"
+	"menu.h"
+
+1510656004 c:\users\pc-nelson\desktop\projet\module2_generateurparamh\generationcode.h
+	<stdlib.h>
+	<stdio.h>
+
