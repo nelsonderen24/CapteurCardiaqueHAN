@@ -5,7 +5,6 @@
 
 int main()
 {
-    int affichage=choisirAffichage();
-    creerParam(affichage);
-    return 0;
+  choisirAffichage();
+  return 0;
 }
