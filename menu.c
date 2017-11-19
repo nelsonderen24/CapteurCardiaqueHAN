@@ -35,7 +35,6 @@ void choisirAffichage(){
     scanf("%d", &numeroLED);
     if (numeroLED<0 || numeroLED>9){
       printf("Erreur du choix, fermeture du menu\n");
-      break;
     }
     affichage = (affichage*10)+numeroLED;
     creerParam(affichage);

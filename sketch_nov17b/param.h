@@ -1,1 +1,1 @@
-#define choixAffichage 7
+#define choixAffichage 6
